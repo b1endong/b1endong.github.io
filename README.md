@@ -1,2 +1,2 @@
-# tranhai.github.io
-Profile 
+# My personal blog
+Đôi chút giới thiệu về bản thân
